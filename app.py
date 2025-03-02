@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 
-with open("xgbModel.pkl", "rb") as file:
+with open("models/xgbModel.pkl", "rb") as file:
     model = pickle.load(file)
 
 st.title("Cross Insurance Prediction")
