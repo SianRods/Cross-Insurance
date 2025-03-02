@@ -17,7 +17,7 @@ st.markdown(
 
         background: url('{background_image2}') no-repeat center center fixed;
         background-size: cover;
-        color:black;
+        color:red;
     }}  
     .top-bar {{
         background-color: #1f77b4;
